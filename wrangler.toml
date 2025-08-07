@@ -3,5 +3,5 @@ main = "src/index.js"
 compatibility_date = "2025-08-01"
 
 kv_namespaces = [
-  { binding = "LINKS", id = "links-kv" }
+  { binding = "LINKS", id = "17a2d563588746dbbabd54fba575bc0e" }
 ]
